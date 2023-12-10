@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3A196A82-7970-4782-B170-89146F4F093F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoworkApi/Controllers/CoworkspacesController.cs">
+    <Files>
+      <File FileName="CoworkApi/Controllers/CoworkspacesController.cs" Line="59" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CoworkApi" expanded="True">
+            <Node name="CoworkApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CoworkspacesController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CoworkApi PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
